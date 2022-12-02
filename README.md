@@ -38,6 +38,6 @@ The aim of the project is to correctly predict the labels in 'TARGET CLASS' colu
 * Rebuild the KNeighborsClassifier model with new n_neighbors value.
 * Evaluate the model.
 
-## Results.
+## Results:
 
 <img src='https://github.com/navi1910/KNN-Practice-Project/blob/main/results.png' height=50% width=50%>
